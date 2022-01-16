@@ -6,7 +6,7 @@ use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Http;
 use Twitter;
 
-class TweetTestCommand extends Command
+class TweetBtcPercentageCompletedCommand extends Command
 {
     /**
      * The name and signature of the console command.
